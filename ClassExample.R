@@ -1,5 +1,4 @@
 
-print("Cecilia here!")
 
 print("Hello World")
 
